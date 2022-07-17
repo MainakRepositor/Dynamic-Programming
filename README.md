@@ -8,3 +8,4 @@ A collection of dynamic programming  solutions that can blow your mind
 | 3 | [Subset Sum](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/3.py) |
 | 4 | [Equal Sum Partition](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/4.py) |
 | 5 | [Count Subsets With Sum Equals X](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/5.py) |
+| 6 | [Minimum Subset Sum Difference](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/6.py) |
