@@ -17,8 +17,7 @@ def subsetSum(arr,n,s):
     
     def countSumsetSum(arr, n, diff):
         s = 0
-        for i in range(n):
-            s += arr[i]
+        s = sum(arr)
             
         reqSum = (diff+s)//2
         return subsetSum(arr,n,reqSum)
