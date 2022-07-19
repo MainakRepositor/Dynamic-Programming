@@ -33,4 +33,5 @@ A collection of dynamic programming  solutions that can blow your mind
 | 1 | [Longest Common Subsequence (Recursive)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/13.py) |
 | 2 | [Longest Common Subsequence (Bottom-Up)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/14.py) |
 | 3 | [Longest Common Substring](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/15.py) |
-| 4 | [Printing LCS](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/16.py) |
+| 4 | [Print Longest Common Subsequence](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/16.py) |
+| 5 | [Print Longest Common Substring](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/17.py) |
