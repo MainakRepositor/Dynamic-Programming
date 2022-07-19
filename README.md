@@ -11,3 +11,7 @@ A collection of dynamic programming  solutions that can blow your mind
 | 6 | [Minimum Subset Sum Difference](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/6.py) |
 | 7 | [Count Number of Subsets With Given Difference](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/7.py) |
 | 8 | [Target Sum](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/8.py) |
+| 9 | [Umbounded Knapsack](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/9.py) |
+| 10 | [Coin Change I (Max number of combinations)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/10.py) |
+| 11 | [Coin Change II (Min number of combinations)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/11.py) |
+| 12 | [Ribbon Cutting Max Product](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/12.py) |
