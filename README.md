@@ -30,4 +30,5 @@ A collection of dynamic programming  solutions that can blow your mind
 **LEAST COMMON SUBSEQUENCE**
 | Sl No. | Problem Statement | 
 |--------|-------------------|
-| 1 | [Longest Common Subsequence](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/13.py) |
+| 1 | [Longest Common Subsequence (Recursive)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/13.py) |
+| 2 | [Longest Common Subsequence (Bottom-Up)](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/14.py) |
