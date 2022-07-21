@@ -40,4 +40,4 @@ A collection of dynamic programming  solutions that can blow your mind
 | 8 | [Length of longest subsequence of a string which is a substring of another](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/20.py) | 
 | 9 | [Subsequence Pattern Matching](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/21.py) | 
 | 10 | [Count number of times a string appears as a subsquence in another string](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/22.py) | 
-
+| 11 | [Longest Palindrominc Subsequence](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/23.py) | 
