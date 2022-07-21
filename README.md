@@ -42,3 +42,4 @@ A collection of dynamic programming  solutions that can blow your mind
 | 10 | [Count number of times a string appears as a subsquence in another string](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/22.py) | 
 | 11 | [Longest Palindrominc Subsequence](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/23.py) | 
 | 12 | [Longest Palindromic Substring](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/24.py) | 
+| 13 | [Count All Palindromic Substrings](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/25.py) |
