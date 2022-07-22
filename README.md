@@ -45,3 +45,6 @@ A collection of dynamic programming  solutions that can blow your mind
 | 13 | [Count All Palindromic Substrings](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/25.py) |
 | 14 | [Minimum Number of Deletions in a string to make it Palindrome](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/26.py) |
 | 15 | [Minimum Number of Insertions in a string to make it Palindrome](https://github.com/MainakRepositor/Dynamic-Programming/blob/master/27.py) |
+
+**MATRIX CHAIN MULTIPLICATION**
+
